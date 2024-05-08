@@ -1,2 +1,2 @@
 import pdfkit
-pdfkit.from_file('input.html', 'output.pdf')
+pdfkit.from_file('files/UseMeshesintheEditor.html', 'UseMeshesintheEditor.pdf')

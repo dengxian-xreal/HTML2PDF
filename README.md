@@ -9,14 +9,14 @@
 
 ![image](https://github.com/dengxian-xreal/HTML2PDF/assets/134575521/585cc5ef-650b-4651-bc29-75f3c9379d41)
 
-可以网页原本的各种交互都还在。
+而且网页原本的各种交互都还在。
 但是全部网页在一个文件夹里，找起来很不方便。
 
 ![image](https://github.com/dengxian-xreal/HTML2PDF/assets/134575521/c16a670e-3f5e-4c11-bfce-118e04eb5e8e)
 
-尝试处理这些HTML files，
+尝试处理这些HTML files：
 
-首先是需要重命名：rename.py
-其次是将导航栏中的跳转链接给替换了：replace.py
+首先是需要重命名：**rename.py**
+其次是将导航栏中的跳转链接给替换了：**replace.py**
 
 然后就大功告成啦。
